@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Book a Consultation"
+  },
+  "hero": {
+    "eyebrow": "Hybrid Sports Law Agency",
+    "title": "We represent talent. We protect rights. We open doors.",
+    "subtitle": "Combining sports law expertise, women's football scouting, and the power of esports — powered by AI.",
+    "ctaPrimary": "Explore Services",
+    "ctaSecondary": "Contact Us"
+  },
+  "pillars": {
+    "title": "Our Three Sectors",
+    "law": {
+      "title": "Sports Law",
+      "desc": "Contract review, FIFA compliance, and legal case radar for lawyers."
+    },
+    "football": {
+      "title": "Women's Football",
+      "desc": "Scouting young talent in Africa and managing their path to professionalism in the Gulf."
+    },
+    "esports": {
+      "title": "Esports",
+      "desc": "Talent and team management, tournament organization in the African competitive scene."
+    },
+    "learnMore": "Learn More"
+  },
+  "howItWorks": {
+    "title": "How We Work",
+    "step1Title": "We Scout",
+    "step1Desc": "We analyze data and monitor tournaments to discover talent.",
+    "step2Title": "We Protect",
+    "step2Desc": "We review contracts and ensure full legal compliance.",
+    "step3Title": "We Connect",
+    "step3Desc": "We match talent with clubs and negotiate the best terms."
+  },
+  "stats": {
+    "players": "Players in Database",
+    "sectors": "Service Sectors",
+    "markets": "Gulf Markets Targeted",
+    "compliance": "FIFA Compliance"
+  },
+  "players": {
+    "title": "Featured Talent",
+    "viewProfile": "View Profile",
+    "disclaimer": "These players are exclusively represented by SportLex. For inquiries, please use the contact form."
+  },
+  "ctaBanner": {
+    "title": "Are you a player looking for an agent? Or a law firm looking for cases?",
+    "player": "I'm a Player",
+    "lawyer": "I'm a Lawyer"
+  },
+  "footer": {
+    "tagline": "We represent talent. We protect rights. We open doors.",
+    "desc": "A hybrid sports law agency combining law, data, and AI.",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "disclaimer": "Disclaimer",
+    "copyright": "© 2027 SportLex. All rights reserved."
+  },
+  "services": {
+    "headerTitle": "Our Services",
+    "headerSubtitle": "Three sectors, one vision: protecting talent and empowering lawyers.",
+    "law": {
+      "title": "Sports Law",
+      "desc": "We provide specialized legal consulting for players, clubs, and lawyers. We review contracts, ensure FIFA and CAS compliance, and run the 'Case Radar' that detects potential disputes before they happen.",
+      "b1": "Player and sponsorship contract review",
+      "b2": "FIFA RSTP compliance",
+      "b3": "Legal Case Radar (AI)",
+      "b4": "DRC dispute representation (via licensed partners)",
+      "note": "We operate as Scouting & Consulting. For official negotiations, we partner with a licensed FIFA agent."
+    },
+    "football": {
+      "title": "Women's Football",
+      "desc": "We scout young talent in Africa (WAFCON, U20 tournaments) and match them with clubs in the Gulf (Saudi Arabia, UAE) and Korea. We focus on local players, under 23, without agents.",
+      "b1": "Talent scouting from African tournaments",
+      "b2": "Matching players with Gulf clubs",
+      "b3": "Image rights and brand management",
+      "b4": "Long-term career support"
+    },
+    "esports": {
+      "title": "Esports",
+      "desc": "We manage talent and teams in the African competitive scene (eFootball, Rocket League, MLBB). We organize tournaments and connect players with clubs and sponsors.",
+      "b1": "Esports talent management",
+      "b2": "Team and tournament management",
+      "b3": "Connecting players with clubs and sponsors",
+      "b4": "Legal consulting for esports contracts"
+    },
+    "ctaTitle": "Interested in a specific service?",
+    "ctaButton": "Book a Free Consultation"
+  },
+  "about": {
+    "headerTitle": "About Us",
+    "headerSubtitle": "A hybrid sports law agency combining law, data, and AI.",
+    "missionTitle": "Our Mission",
+    "missionDesc": "We protect players' rights — especially women — and empower sports lawyers with AI.",
+    "visionTitle": "Our Vision",
+    "visionDesc": "To be the leading sports legal reference in Africa and the Middle East.",
+    "founderTitle": "Founder & CEO",
+    "founderBio": "A sports lawyer specialized in sports law and player transfers. Has analyzed FIFA RSTP regulations and built AI tools for legal case discovery. Believes African talent deserves fair legal representation.",
+    "valuesTitle": "Our Values",
+    "v1": "Integrity",
+    "v2": "Innovation",
+    "v3": "Protection",
+    "v4": "Excellence",
+    "timelineTitle": "Our Journey",
+    "t1": "Launch — building a database of 20 players",
+    "t2": "Launch of Case Radar (AI)",
+    "t3": "Regional expansion (Gulf + Korea)"
+  },
+  "contact": {
+    "headerTitle": "Contact Us",
+    "headerSubtitle": "We respond within 24 hours.",
+    "formName": "Full Name",
+    "formEmail": "Email Address",
+    "formPhone": "Phone Number (optional)",
+    "formRole": "I am a",
+    "roles": {
+      "player": "Player",
+      "lawyer": "Lawyer",
+      "club": "Club",
+      "agent": "Agent",
+      "other": "Other"
+    },
+    "formSubject": "Subject",
+    "formMessage": "Message",
+    "formConsent": "I agree to the Privacy Policy",
+    "formSubmit": "Send Message",
+    "formSuccess": "Your message was sent successfully. We'll respond within 24 hours.",
+    "formError": "An error occurred. Please try again.",
+    "infoEmail": "contact@sportlex.ma",
+    "infoPhone": "+212 XXX XXX XXX",
+    "infoAddress": "Casablanca, Morocco",
+    "infoHours": "Mon-Fri, 9:00 - 18:00 (GMT+1)",
+    "faqTitle": "FAQ",
+    "faq1Q": "Are you licensed FIFA agents?",
+    "faq1A": "We operate as Scouting & Consulting. For official negotiations, we partner with a licensed agent (Co-Brokerage).",
+    "faq2Q": "How do you protect my data?",
+    "faq2A": "We use full encryption. We never share your data without your consent.",
+    "faq3Q": "Do you offer free consultations?",
+    "faq3A": "Yes, the first consultation (15 minutes) is free."
+  },
+  "cookie": {
+    "text": "We use cookies to improve your experience.",
+    "accept": "Accept",
+    "learnMore": "Learn More"
+  }
+}
